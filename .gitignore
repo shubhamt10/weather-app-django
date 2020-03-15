@@ -1,0 +1,33 @@
+profile_default/
+ipython_config.py
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.venv
+venv/
+venv.bak/
+
+/site
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+.pyre/
+
+*.pyc
+*~
+__pycache__
+myenv
+db.sqlite3
+/static
+.DS_Store
+
+/static
+/media
