@@ -1,10 +1,10 @@
 # weather-app-django
 A weather app built using Django.
 
-##Tools and Technologies used
-###Python
-###Django
-###OpenWeatherMapAPI
+## Tools and Technologies used
+#### Python
+#### Django
+#### OpenWeatherMapAPI
 
 ##Screenshot
 
