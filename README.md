@@ -6,7 +6,7 @@ A weather app built using Django.
 #### Django
 #### OpenWeatherMapAPI
 
-##Screenshot
+## Screenshot
 
 <img src="weather_app/ss/1.JPG" width="500">
 
